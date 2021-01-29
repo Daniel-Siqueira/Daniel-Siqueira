@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## About ✔
+I'm Javascript | HTML | CSS student.
+
+
 <!--
 **Daniel-Siqueira/Daniel-Siqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
